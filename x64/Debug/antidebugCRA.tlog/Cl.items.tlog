@@ -1,0 +1,6 @@
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\Infector.cpp;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\Infector.obj
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\minhook\buffer.c;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\buffer.obj
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\minhook\hde\hde32.c;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\hde32.obj
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\minhook\hde\hde64.c;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\hde64.obj
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\minhook\hook.c;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\hook.obj
+C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\minhook\trampoline.c;C:\Users\Root\source\repos\antidebugCRA\antidebugCRA\x64\Debug\trampoline.obj
